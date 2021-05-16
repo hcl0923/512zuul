@@ -4,3 +4,4 @@ eureka:
   client:
     service-url:
       defaultZone: http://127.0.0.1:8000/eureka
+      zz: 12
