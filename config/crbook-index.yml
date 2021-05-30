@@ -4,3 +4,4 @@ eureka:
   client:
     service-url:
       defaultZone: http://127.0.0.1:8000/eureka
+    register-with-eureka: false    #是否当前客户端要注册到eureka
